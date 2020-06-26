@@ -6,6 +6,7 @@ public class New {
 		System.out.println("Hello");
 		System.out.println("Friends");
 		System.out.println("I");
+		System.out.println(" I am David" +8+ "years old");
 	}
 
 }
