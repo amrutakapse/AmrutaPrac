@@ -7,6 +7,7 @@ public class New {
 		System.out.println("Friends");
 		System.out.println("I");
 		System.out.println(" I am David" +8+ "years old");
+		System.out.println(" I am monika" +8+ "years old");
 	}
 
 }
